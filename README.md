@@ -58,4 +58,4 @@ Secantes        5           2.0945514812        2.72e-10        0.000000        
 
 ## Autor
 
-Caio Ferreira da Silva — Matrícula 2023100040
+Caio Ferreira da Silva 
